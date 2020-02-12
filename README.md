@@ -1,10 +1,10 @@
 
 # Practica1-DA
 
-Álvaro Ortega Castro aoc00023
+Álvaro Ortega Castro aoc00023  
 José Javier Lozano Lemus jjll0006
 
-##Alternativas a Trello
+## Alternativas a Trello
 
 Trello es una plataforma que trabaja con un sistema de información de Kanban. Por ello otras plataformas que usen un sistema de información Kanban puede ser considerado como una alternativa a Trello. A continuación mostraremos un par de ellas:
 
