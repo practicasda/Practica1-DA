@@ -16,3 +16,10 @@ Como indica su nombre, es una herramienta similar a Trello que usa sistemas de i
 
 Es otra herramienta de gestión de proyectos para desarrolladores y diseñadores, cuya principal característica es que es open source. Es similar a la hora de mostrar la información, pero además usa Scrum, la metodología de desarrollo ágil más prominente hoy en día, ya que ayuda a los programadores a gestionar el desarrollo de proyectos de manera eficiente. También posee una wiki con toda la documentación necesaria para el uso de la aplicación.
 
+## Alternativas a Git Hub
+
+Git Hub es la plataforma de alojamiento de códigos más popular de todas, donde podemos depositar códigos públicos, y donde podemos crear organizaciones para desarrollar proyectos en grupo. Algunas alternativas que hemos encontrado:
+
+- **GitLab**
+
+Es una web similar que destaca por permitir a los usuarios en sus servidores particulares, lo que le permite asociar un servidor web propio y gozar de mayor seguridad y privacidad de contenidos. Así se puede tener repositorios públicos y privados ilimitados y gratuitamente. Su principal problema es que hay que realizar muchas configuraciones previas que no son sencillas, por lo que es una plataforma para usuarios más experimentados que los de Git Hub.
