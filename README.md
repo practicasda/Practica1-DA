@@ -45,14 +45,18 @@ Mattermost es otra solución de código abierto para la comunicación interna en
 ## Capturas
 
 
-![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\1)
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\1.PNG)
 
-![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\2)
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\2.PNG)
 
-![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\3)
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\3.PNG)
 
-![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\4)
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\4.PNG)
 
-![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\5)
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\5.PNG)
 
-![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\6)
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\6.PNG)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\7.PNG)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Practica1-DA\8.PNG)
