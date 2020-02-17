@@ -36,6 +36,23 @@ Slack es una plataforma para gestionar trabajos y proyectos de forma colaborativ
 
 Spike ha reinventado la comunicación en el seno de los equipos. Aunque hoy sigue siendo el correo electrónico el que lleva el mayor peso de la comunicación en las empresas modernas, el programa topa con sus límites cuando se trata de seguir la correlación de mensajes en una discusión más larga. La aplicación Spike traslada esta dinámica a un formato más conocido por los programas de mensajería y chat: la representación visual en forma de diálogo, prescindiendo para ello de la línea de asunto y de la firma. De este modo, el usuario puede comunicarse por correo electrónico de una forma más natural que recuerda a la propia de un chat.
 
+
 - **Mattermost**
 
 Mattermost es otra solución de código abierto para la comunicación interna en las empresas que permite el alojamiento en servidores propios o una nube privada tras un cortafuegos. De este modo, siempre tendrás un control total sobre los datos confidenciales. Esta alternativa a Slack se puede integrar fácilmente en la infraestructura existente de tus servidores. Si alojas tus proyectos en una nube pública, simplemente tienes que añadir Mattermost al entorno de alojamiento. Los usuarios elogian especialmente la sencilla escalabilidad de esta aplicación.
+
+
+## Capturas
+
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\1)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\2)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\3)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\4)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\5)
+
+![Imagen fallida](C:\Users\lenovo\Desktop\Pr1-DA\6)
